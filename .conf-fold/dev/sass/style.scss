@@ -1,0 +1,8 @@
+$color: black;
+.ejemplo {
+    background: #003A8F;
+    color: white;
+    p {
+        color: $color;
+    }
+}

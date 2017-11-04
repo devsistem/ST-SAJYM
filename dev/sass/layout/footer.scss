@@ -1,0 +1,4 @@
+@import "../config";
+footer{
+  background:  map-get($color-primary, "color-primary-1");
+}

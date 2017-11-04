@@ -1,0 +1,5 @@
+@import "../config";
+header{
+  background:  map-get($color-primary, "color-primary-2");
+  height: 20%;
+}
